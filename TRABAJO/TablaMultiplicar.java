@@ -6,7 +6,7 @@ public class TablaMultiplicar {
             System.out.printf("%4d", j);
         }
         System.out.println();
- 
+
         // Imprimir las filas de la tabla
         for (int i = 1; i <= 15; i++) {
             System.out.printf("%2d* ", i);
